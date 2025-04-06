@@ -1,6 +1,6 @@
 # Anubis
 
-This was created to improove ultimate enviroment for occurrence of technomancers and for my own convenience while I work.
+This was created to improove ultimate enviroment for occurrence of technomancers. It becomes something diffrent, something more...
 
 <!--
 
